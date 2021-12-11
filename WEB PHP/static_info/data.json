@@ -1,0 +1,26 @@
+{
+    "main": {
+        "title": "main frame",
+        "type": "button_list",
+        "buttons": [
+            "hello",
+            "bb"
+        ]   
+    },
+    "main.page1": {
+        "title": "sudo administrator",
+        "type": "button_list",
+        "buttons": [
+            "hello",
+            "bb"
+        ] 
+    },
+    "main.exit_page": {
+        "title": "main frame for exit",
+        "type": "button_list",
+        "buttons": [
+            "hello",
+            "bb"
+        ] 
+    }
+}

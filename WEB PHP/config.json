@@ -1,0 +1,14 @@
+{
+	"database":{
+		"tables": {
+			"users": ""
+		},
+		"auth":{
+			"host": "",
+			"database": "",
+			"user": "",
+			"password": ""
+		}
+		
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"database":{
+		"tables": {
+			"users": "sfedu_users"
+		},
+		"auth":{
+			"host": "baragunda.ru",
+			"database": "unixbot",
+			"user": "unix",
+			"password": "M7d6J3j0"
+		}
+		
+	}
+}
